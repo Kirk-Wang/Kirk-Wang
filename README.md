@@ -2,7 +2,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/hD75vrNauXaib4KWs66GDwCRBAXcV2zia5jGfbCFSa7pexic8bdcUA5eYDpCQibibjy9waoJGYl2icLiabFBPFHWdaUYQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-[课程详情]()
+[课程详情->>>公众号：黑客下午茶](https://mp.weixin.qq.com/s/dcl388fPMYMkxMQZIuC9yw)
 
 课程大纲(文字专栏+视频+不定时直播)
 * 【一】K8S PaaS 云原生环境
