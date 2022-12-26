@@ -2,16 +2,6 @@
 课程大纲(文字专栏+视频+不定时直播)
 
 *【一】K8S PaaS 云原生环境
-  1. VKE Cluster, Vultr 生产级 K8S 集群搭建与管理(kubectl & helm)
-  2. Helm 部署 Traefik，统一管理对集群服务的访问(Kubernetes Ingress Controller) 
-  3. VKE Cluster，负载均衡器(VKE Load Balancer)管理与配置
-  4. Cloudflare 停靠域名 sentry-paas.com 并解析到 VKE Load Balancer，加速及保护集群安全访问(https & DDoS 防护等)
-  5. traefik.sentry-paas.com，IngressRoute 实战 & 暴露 traefik dashboard
-  6. whoami.sentry-paas.com，Helm 部署 Whoami & 打印 OS 信息和 HTTP 请求输出(Tiny Go webserver)
-  7. Helm 部署 Metrics Server，K8S 内置可扩展、高效的容器资源指标来源
-  8. 在 VKE Cluster 节点上搭建 NFS 服务器(nfs-common & nfs-kernel-server)
-  9. Helm 部署 nfs-subdir-external-provisioner，创建集群 NFS-client 的存储类型
-  10. kubesphere.sentry-paas.com，VKE 部署 KubeSphere(全栈的 Kubernetes 容器云 PaaS 解决方案)
 *【二】K8S PaaS 小试牛刀(Sentry+K8S初探)
 *【三】K8S PaaS 证书管理(Cert-Manager)
 *【四】8S PaaS 云原生分布式存储(Longhorn/Rook-Ceph)集群
@@ -27,3 +17,5 @@
 *【十四】KubeSphere (全栈的 K8S 容器云 PaaS 解决方案) 监控告警
 *【十五】K8S PaaS 集群性能负载测试(Locust)
 *  More(规划中……)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/hD75vrNauXaib4KWs66GDwCRBAXcV2zia5zrn4qRiana2hs3NF8hWbDpuWIib5sSWlniaW0nRPS4HuY3DaCaTNE3sTw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
