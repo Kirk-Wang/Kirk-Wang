@@ -1,4 +1,9 @@
 ### K8S PaaS 云原生中间件实战营(Sentry 大规模/ Service Mesh 微服务/容器化中间件集群/分布式数据库) 👋
+
+![](https://mmbiz.qpic.cn/mmbiz_png/hD75vrNauXaib4KWs66GDwCRBAXcV2zia5jGfbCFSa7pexic8bdcUA5eYDpCQibibjy9waoJGYl2icLiabFBPFHWdaUYQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+[课程详情]()
+
 课程大纲(文字专栏+视频+不定时直播)
 * 【一】K8S PaaS 云原生环境
 * 【二】K8S PaaS 小试牛刀(Sentry+K8S初探)
@@ -17,4 +22,4 @@
 * 【十五】K8S PaaS 集群性能负载测试(Locust)
 *  More(规划中……)
 
-![](https://mmbiz.qpic.cn/mmbiz_png/hD75vrNauXaib4KWs66GDwCRBAXcV2zia5zrn4qRiana2hs3NF8hWbDpuWIib5sSWlniaW0nRPS4HuY3DaCaTNE3sTw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/mmbiz_png/hD75vrNauXaib4KWs66GDwCRBAXcV2zia5TzuJoHXSSwYdMgaiaVickaVH68PJmEcWtTmFTVGZWmNjc9K4MibMC0QPQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
